@@ -36,7 +36,7 @@ lightbox: true
 
 [«Mirades en risc»]{.titulo-trabajo}
 
-- **Autoria:** Núria Marí Cifre i Li Wendy Xiyan
+- **Autoria:** Núria Marí Cifre i Wendy Xiyan Li
 - **Tutoria:** Òscar Mascarell Claver
 - **Centre:** IES Almussafes, Almussafes (València)
 
@@ -50,7 +50,7 @@ lightbox: true
 
 [«¿Comemos bien? Un estudio práctico sobre la dieta en adolescentes»]{.titulo-trabajo}
 
-- **Autoria:** Aïcha Doumia Gómez i Aitana Palop Mateu
+- **Autoria:** Aïcha Doumbia Gómez i Aitana Palop Mateu
 - **Tutoria:** Virginia Hidalgo Villanueva i Lydia Moragón Fandos
 - **Centre:** IES Juan de Garay, València
 

@@ -1,13 +1,13 @@
 ---
-title: "Llançament de la 4a edició de Va De Dades!"
+title: "Llançament de la IV edició de Va De Dades!"
 date: 2025-11-06
 description: "Comença la quarta edició del concurs Va De Dades!"
-image: ../../img/noticias/lanzamiento-4a-edicion/fechas-ca.webp
+image: ../../img/noticias/lanzamiento-iv-edicion/fechas-ca.webp
 lang: ca
 lightbox: true
 ---
 
-<!-- NOTÍCIA (valencià). Instruccions en ../../noticias/lanzamiento-4a-edicion.qmd -->
+<!-- NOTÍCIA (valencià). Instruccions en ../../noticias/lanzamiento-iv-edicion.qmd -->
 
 ::: {.lectura .texto-largo .noticia}
 
@@ -28,7 +28,7 @@ Molt atentament us saludem:
 - Asun Martínez Mayoral (Universitat Miguel Hernández d'Elx)
 - Javier Morales Socuéllamos (Universitat Miguel Hernández d'Elx)
 
-![](../../img/noticias/lanzamiento-4a-edicion/fechas-ca.webp){fig-alt="Dates de la 4a edició"}
+![](../../img/noticias/lanzamiento-iv-edicion/fechas-ca.webp){fig-alt="Dates de la iv edició"}
 
 [← Totes les notícies](../blog.qmd){.volver}
 

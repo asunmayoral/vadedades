@@ -30,7 +30,7 @@ Asun Mtnez. Mayoral y Javier Morales (UMH), Carmen Armero (UV).
 </div>
 <div>
 ### Organización académica
-Asun Mtnez. Mayoral y Javier Morales (UMH), Carmen Armero (UV), Mari Carmen Mtnez. Blázquez (doctora en Estadística e Investigación Operativa), M.ª Teresa Navarro Moncho y Tomás Queralt Llopis (SEMCV), y Mireia Polo Tamarit (CEFIRE).
+Asun Mtnez. Mayoral y Javier Morales (UMH), Carmen Armero (UV), Mari Carmen Mtnez. Blázquez (doctora en Estadística e Investigación Operativa), M.ª Teresa Navarro Moncho y Tomás Queralt Llopis (SEMCV), y Mireia Polo Tamarit (SEMCV).
 </div>
 :::
 
@@ -38,7 +38,7 @@ Asun Mtnez. Mayoral y Javier Morales (UMH), Carmen Armero (UV), Mari Carmen Mtne
 
 - Institut Valencià d'Estadística (IVE – GVA).
 - Societat d'Educació Matemàtica de la Comunitat Valenciana Al-Khwarizmi (SEMCV).
-- **Universitat de València:** Departament d'Estadística i Investigació Operativa, Facultat de Ciències Matemàtiques y Delegació per a la Incorporació a la Universitat (Vicerectorat d'Estudis).
+- **Universitat de València:** Departament d'Estadística i Investigació Operativa, Facultat de Ciències Matemàtiques y Delegació per a la Incorporació a la Universitat.
 - **Universidad Miguel Hernández de Elche:** Vicerrectorado de Estudiantes y Coordinación, Departamento de Estadística, Matemáticas e Informática, Instituto de Investigación i-MInD, Facultad de Ciencias Experimentales (Grado en Ciencia de Datos e Inteligencia Artificial) y Facultad de Ciencias Sociales y Jurídicas (Grado en Estadística Empresarial).
 
 ::: {.logos-patrocinio}

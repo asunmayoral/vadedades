@@ -1,13 +1,13 @@
 ---
-title: "Llançament de la 3a edició de Va De Dades!"
+title: "Llançament de la III edició de Va De Dades!"
 date: 2024-10-08
-description: "Comença la tercera edició del concurs Va De Dades!"
-image: ../../img/noticias/lanzamiento-3a-edicion/fechas-ca.webp
+description: "Comença la III edició del concurs Va De Dades!"
+image: ../../img/noticias/lanzamiento-III-edicion/fechas-ca.webp
 lang: ca
 lightbox: true
 ---
 
-<!-- NOTÍCIA (valencià). Instruccions en ../../noticias/lanzamiento-3a-edicion.qmd -->
+<!-- NOTÍCIA (valencià). Instruccions en ../../noticias/lanzamiento-III-edicion.qmd -->
 
 ::: {.lectura .texto-largo .noticia}
 
@@ -27,7 +27,7 @@ Molt atentament us saludem:
 - Carmen Martínez Blázquez (Universitat de València)
 - Asun Martínez Mayoral (Universitat Miguel Hernández d'Elx)
 
-![](../../img/noticias/lanzamiento-3a-edicion/fechas-ca.webp){fig-alt="Dates de la 3a edició"}
+![](../../img/noticias/lanzamiento-III-edicion/fechas-ca.webp){fig-alt="Dates de la III edició"}
 
 [← Totes les notícies](../blog.qmd){.volver}
 
