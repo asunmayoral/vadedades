@@ -2,13 +2,13 @@
 title: "Lanzamiento de la IV edición de Va De Dades!"
 date: 2025-11-06
 description: "Arranca la cuarta edición del concurso Va De Dades!"
-image: ../img/noticias/lanzamiento-IV-edicion/fechas-es.webp
+image: ../img/noticias/lanzamiento-4a-edicion/fechas-es.webp
 lang: es
 lightbox: true
 ---
 
 <!--
-  NOTICIA (castellano). La versión en valenciano está en ca/noticias/lanzamiento-IV-edicion.qmd
+  NOTICIA (castellano). La versión en valenciano está en ca/noticias/lanzamiento-4a-edicion.qmd
   "image" es la foto que aparece en el listado de noticias.
   Para una noticia nueva: copia este archivo con otro nombre, cambia título, fecha, descripción, imagen y texto.
 -->
@@ -32,7 +32,7 @@ Muy atentamente os saludamos:
 - Asun Martínez Mayoral (Universidad Miguel Hernández de Elche)
 - Javier Morales Socuéllamos (Universidad Miguel Hernández de Elche)
 
-![](../img/noticias/lanzamiento-IV-edicion/fechas-es.webp){fig-alt="Fechas de la IV edición"}
+![](../img/noticias/lanzamiento-4a-edicion/fechas-es.webp){fig-alt="Fechas de la IV edición"}
 
 [← Todas las noticias](../blog.qmd){.volver}
 

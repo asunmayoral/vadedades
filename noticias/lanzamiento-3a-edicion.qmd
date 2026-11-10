@@ -2,13 +2,13 @@
 title: "Lanzamiento de la III edición de Va De Dades!"
 date: 2024-10-08
 description: "Arranca la tercera edición del concurso Va De Dades!"
-image: ../img/noticias/lanzamiento-III-edicion/fechas-es.webp
+image: ../img/noticias/lanzamiento-3a-edicion/fechas-es.webp
 lang: es
 lightbox: true
 ---
 
 <!--
-  NOTICIA (castellano). La versión en valenciano está en ca/noticias/lanzamiento-III-edicion.qmd
+  NOTICIA (castellano). La versión en valenciano está en ca/noticias/lanzamiento-3a-edicion.qmd
   "image" es la foto que aparece en el listado de noticias.
   Para una noticia nueva: copia este archivo con otro nombre, cambia título, fecha, descripción, imagen y texto.
 -->
@@ -31,7 +31,7 @@ Muy atentamente os saludamos:
 - Carmen Martínez Blázquez (Universitat de València)
 - Asun Martínez Mayoral (Universidad Miguel Hernández de Elche)
 
-![](../img/noticias/lanzamiento-III-edicion/fechas-es.webp){fig-alt="Fechas de la III edición"}
+![](../img/noticias/lanzamiento-3a-edicion/fechas-es.webp){fig-alt="Fechas de la III edición"}
 
 [← Todas las noticias](../blog.qmd){.volver}
 
