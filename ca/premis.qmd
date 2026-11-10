@@ -15,9 +15,7 @@ lang: ca
 -->
 
 :::: {.seccion .crema .cabecera-pagina}
-<h1 class="visually-hidden">Guanyadors</h1>
-
-![](../img/premios/titulo-ca.webp){.titulo-imagen fig-alt="Guanyadors"}
+# Premis 
 
 [Treballs premiats en la fase local de la Comunitat Valenciana. Tria una edició:]{.intro}
 ::::

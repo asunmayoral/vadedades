@@ -15,9 +15,7 @@ lang: es
 -->
 
 :::: {.seccion .crema .cabecera-pagina}
-<h1 class="visually-hidden">Ganadores</h1>
-
-![](img/premios/titulo-es.webp){.titulo-imagen fig-alt="Ganadores"}
+# Ganadores
 
 [Trabajos premiados en la fase local de la Comunitat Valenciana. Elige una edición:]{.intro}
 ::::
